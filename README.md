@@ -4,7 +4,7 @@
 
 Voici le code source et la dernière backup d'un système qui m'a valu un conseil de discipline.
 
-Je me suis dis que le partager pourais nous redonner quelques vieux souvenirs ;-)
+Je me suis dit que le partager pourrais nous redonner quelques vieux souvenirs ;-)
 
-                    -- Baptiste alias Swano
+                    -- Baptiste alias Jack Doe
 
