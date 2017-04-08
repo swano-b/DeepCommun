@@ -1,0 +1,75 @@
+
+Outil de r‚sultat du systŠme d'exploitation Microsoft (R) Windows (R) XP v2.0
+Copyright (C) Microsoft Corp. 1981-2001
+
+Jeu cr‚‚ le 26/03/2015 … 12:07:27
+
+
+R‚sultats RSOP pour LSP\PELLARINBAPTISTE sur SALLEINFO04 : mode journalisation
+-------------------------------------------------------------------------------
+
+Type de systŠme d'exploitationÿ:                     Microsoft Windows XP Professionnel
+ Configuration du systŠme d'exploitation :                  Station de travail membre
+Version du systŠme d'exploitation :                  5.1.2600
+Nom du domaineÿ:LSP
+Type de domaine :Windows 2000
+Nom du site :                   Premier-Site-par-defaut
+Profil itin‚rant :             
+Profil local :C:\Documents and Settings\PELLARINBAPTISTE
+Connexion via une liaison lente ? : Non
+
+
+ParamŠtre de l'ordinateur
+--------------------------
+    CN=SALLEINFO04,CN=Computers,DC=lsp,DC=com
+    Heure de la derniŠre application de la strat‚gie de groupe : 26/03/2015 at 11:50:12
+    Strat‚gie de groupe appliqu‚e depuis :      serveurlsp.lsp.com
+    Seuil de liaison lente dans la strat‚gie de groupe :   500 kbps
+
+    Objets Strat‚gie de groupe appliqu‚s
+    -------------------------------------
+        Default Domain Policy
+
+    Les objets strat‚gie de groupe n'ont pas ‚t‚ appliqu‚s car ils ont ‚t‚ refus‚
+    ------------------------------------------------------------------------------
+        Strat‚gie de groupe locale
+            Filtrage :  Non appliqu‚ (vide)
+
+    L'ordinateur fait partie des groupes de s‚curit‚ suivants :
+    -----------------------------------------------------------
+        Administrateurs
+        Tout le monde
+        Utilisateurs
+        RESEAU
+        Utilisateurs authentifi‚s
+        SALLEINFO04$
+        Ordinateurs du domaine
+        
+
+PARAMÔTRES UTILISATEURS
+------------------------
+    CN=2011 PELLARIN BAPTISTE,OU=eleves,DC=lsp,DC=com
+    Heure de la derniŠre application de la strat‚gie de groupe : 26/03/2015 at 11:50:12
+    Strat‚gie de groupe appliqu‚e depuis :      serveurlsp.lsp.com
+    Seuil de liaison lente dans la strat‚gie de groupe :   500 kbps
+
+    Objets Strat‚gie de groupe appliqu‚s
+    -------------------------------------
+        eleves
+        Default Domain Policy
+
+    Les objets strat‚gie de groupe n'ont pas ‚t‚ appliqu‚s car ils ont ‚t‚ refus‚
+    ------------------------------------------------------------------------------
+        Strat‚gie de groupe locale
+            Filtrage :  Non appliqu‚ (vide)
+
+    L'utilisateur fait partie des groupes de s‚curit‚ suivants :
+    ------------------------------------------------------------
+        Utilisa. du domaine
+        Tout le monde
+        Utilisateurs
+        INTERACTIF
+        Utilisateurs authentifi‚s
+        LOCAL
+        eleves
+        
