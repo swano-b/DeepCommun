@@ -18,7 +18,7 @@ ECHO ON
 @echo off
 color 0b
 title Chat DeepCommun
-echo Bienvenu dans le Chat Du DeepCommun V.2
+echo Bienvenue dans le Chat Du DeepCommun V.2
 echo.
 echo Merci de n'utiliser qu'un seul pseudo sous penne de ban...
 echo.
@@ -64,7 +64,7 @@ cd Chat
 echo %u% %EncryptOut% >> %l%
 set time=&time /t
 
-echo %time% %u% Est entre dans le Chat. >> %c%
+echo %time% %u% est entre dans le Chat. >> %c%
 :A
 cls
 echo DeepCommun - %u%
