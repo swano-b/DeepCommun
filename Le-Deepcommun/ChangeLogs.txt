@@ -13,5 +13,5 @@ Ajouts de jeux qui sortent toutes les semaines ( à peut près )...
 
 6/05/2015:
 
-Fix d'un bug qui permetès aux prof d'aoir acces au DeepCommun.
+Fix d'un bug qui permetais aux prof d'avoir accès au DeepCommun.
 
