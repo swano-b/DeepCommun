@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="../favicon.png" />
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Swano Inc</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+	background-image: url(../background.jpg);
+	color: #FFFFFF;
+	background-color: #F1E6E7;
+}
+body,td,th {
+	color: #F1F1F1;
+	font-size: 36px;
+	text-align: center;
+}
+a:link {
+	color: #1DED0D;
+}
+a:visited {
+	color: #1DED0D;
+}
+</style>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<h6><img src="../logo swano corp.jpg" alt="" width="400" height="188" title="logo swano corp"/></h6>
+<nav class="nav1" id="1"></nav>
+<p><!-- TemplateBeginRepeat name="header" -->
+  <header class="header1" id="head1"><span class="nav1"><a href="/index.html">DeepCommun</a> ---- <a href="/howto.html">Comment installer</a> ---- <a href="/download.html"><span style="">Download</span></a> ---- <a href="/wiki/wiki.html">Wiki</a> ---- <a href="/FAQ.html">FAQ</a></span></header>
+<!-- TemplateEndRepeat --></p>
+<p style="font-size: 36px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; font-weight: bold;"><u>Foire Aux Questions</u></p>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; font-weight: normal; text-align: left; color: #2ED331;">Q. C'est quoi le DeepCommun ?</p>
+      <blockquote>
+        <blockquote>
+          <p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; font-weight: normal; text-align: left; color: #1B93F5;">R. <span style="font-size: 24px">Le <span id="spans1e" tooltip="<b>deepcommun</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>DEEP commun</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">deep commun</span> est un programme de partage de <span id="spans1e1" onclick="SetVisible(this);" tooltip="Dans ce contexte, le mot <b>fichier</b> doit être au pluriel." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">fichiers</span></span> <span id="spans1e2" style="font-size: 24px" onclick="SetVisible(this);" onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" tooltip="L'adjectif <b>interne</b> pourrait s'accorder au masculin pluriel.">internes</span><span style="font-size: 24px"> à un réseau. <br>
+          </span></p>
+          <p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; font-weight: normal; text-align: left; color: #1B93F5;"><span style="font-size: 24px"><span tooltip="<b>Graçe</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>Grâce</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">Grâce</span> à lui vous pourrez: <span id="spans2e1" tooltip="<b>patrager</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>partager</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">partager</span>, <span id="spans2e2" tooltip="<b>chater</b> : mot inconnu de nos dictionnaires, il pourrait être remplacé par: <b>chatter</b>, <b>chanter</b>, <b>charter</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">chater</span>, troller, sans limite et <span id="spans2e3" onclick="SetVisible(this);" tooltip="Le groupe nominal <b>d'un manière totalement anonyme</b> est féminin singulier." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">d'une manière totalement anonyme</span>. Vous pourrez modifier totalement le dossier d'<span id="spans3e0" tooltip="<b>acceuil</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>accueil</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">accueil</span> par rapport à vos envies.</span></p>
+        </blockquote>
+      </blockquote>
+      <p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif; text-align: left; color: #2ED331;">Q. Le Deepcommun est-il illégal ?</p>
+      <blockquote>
+        <p style="font-size: 24px; text-align: left; color: #1B93F5;">R. Non, du moins d'un point de vue  <span id="spans0e" onclick="SetVisible(this);" tooltip="Le groupe nominal <b>de la lois non</b> est féminin singulier." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">de la loi non</span>. Pour l'installer vous devez avoir l'autorisation</p>
+        <blockquote>
+          <p style="font-size: 24px; text-align: left; color: #1B93F5;">du	directeur de votre établissement.</p>
+        </blockquote>
+      </blockquote>
+      <p style="font-size: 24px; text-align: left; color: #2ED331; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">Q. Y <span id="spans0e2" onclick="SetVisible(this);" tooltip="<b>a t'il</b> doit se lier par un trait d'union." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">a-t-il</span> des scripts de piratages ?</p>
+      <blockquote>
+        <p style="font-size: 24px; text-align: left; color: #1B93F5;">R. Non, aucun le <span id="spans0e3" tooltip="<b>deepcommun</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>DEEP commun</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">Deepcommun</span> est <span id="spans0e1" onclick="SetVisible(this);" tooltip="Le groupe nominal <b>un moyen facilité</b> est féminin singulier." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">une moyenne facilité</span> de créer un échange lieux d'<span id="spans0e4" onclick="SetVisible(this);" tooltip="Dans ce contexte, le mot <b>échange</b> doit être au pluriel." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">échanges</span> entre les <span id="spans0e5" tooltip="<b>éléves</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>élèves</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">élèves</span>. Il n'y a donc pas besoin d'utiliser des <span id="spans1e0" tooltip="<b>thecniques</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>techniques</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">techniques</span> illégales.</p>
+      </blockquote>
+      <p style="font-size: 24px; text-align: left; color: #2ED331; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">Q. Le Deepcommun <span id="spans0e6" onclick="SetVisible(this);" tooltip="<b>a-t-il</b> doit se lier par un trait d'union." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">a-t-il</span> été testé ?</p>
+      <blockquote>
+        <p style="font-size: 24px; text-align: left; color: #1B93F5;">R.Oui, lors du développement nous avons <span id="spans0e7" onclick="SetVisible(this);" tooltip="La forme verbale <b>créer</b> devrait être remplacée par la forme verbale <b>créé</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">créé</span> un environnement virtuel étant basée sur les <span id="spans0e8" tooltip="<b>infrastrutures</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>infrastructures</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">infrastructures</span> scolaires type. ( Windows Serveur 2008 R2, Windows XP/7 ).</p>
+      </blockquote>
+      <p style="font-size: 24px; text-align: left; color: #2ED331; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">Q. Vous avez <span id="spans0e9" onclick="SetVisible(this);" tooltip="La forme verbale <b>dis</b> devrait être remplacée par la forme verbale <b>dit</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">dit</span> <span id="spans0e10" tooltip="<b>annonyme</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>anonyme</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">anonyme</span> ?</p>
+      <blockquote>
+        <p style="font-size: 24px; text-align: left; color: #1B93F5; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">R. Oui pas le fait que votre nom ne soit mentionné null par défaut. Les logs sont disponibles mais sont cryptés et vous permettent juste de voir la fréquentation de votre Deepcommun. Mais cela n'empêche pas que quelqu'un utilise <span id="spans0e11" onclick="SetVisible(this);" tooltip="Le groupe nominal <b>d'autres méthode</b> est féminin pluriel." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">d'autres méthodes</span> pour savoir qui <span id="spans0e12" onclick="SetVisible(this);" tooltip="Le contexte demande de remplacer <b>à</b> par la forme verbale <b>a</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">a</span> mis en place le <span id="spans0e13" tooltip="<b>DeepCommun</b> : mot inconnu de nos dictionnaires, il pourrait être remplacé par: <b>DEEP Commun</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">DeepCommun</span> et qui <span id="spans0e14" onclick="SetVisible(this);" tooltip="Le contexte demande de remplacer <b>à</b> par la forme verbale <b>a</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">a</span> écrit sur les <span id="spans0e15" tooltip="<b>répertoirs</b> : mot inconnu de nos dictionnaires automatiquement remplacé par <b>répertoire</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();" onclick="SetVisible(this);">répertoires</span>.</p>
+        <p style="font-size: 24px; text-align: left; color: #1B93F5;">&nbsp;</p>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+<p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;"> Swano Corp 2015 -- Tous droits réservés Swano corp -- En navigant sur le site vous <span id="spans0e0" onclick="SetVisible(this);" tooltip="La forme verbale <b>acceptés</b> devrait être remplacée par la forme verbale <b>acceptez</b>." onmouseover="showtooltip(this,300);" onmouseout="hideddrivetip();">acceptez</span> <a href="/disclamer.html">les conditions d'utilisation</a></p>
+<p class="html" style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">&nbsp;</p>
+<p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">&nbsp;</p>
+<p style="font-size: 24px; font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', serif;">&nbsp;</p>
+</body>
+</html>
