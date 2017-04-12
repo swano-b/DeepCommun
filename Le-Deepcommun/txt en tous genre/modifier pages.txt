@@ -1,0 +1,3 @@
+javascript:document.body.content
+Editable='true';document.designM
+ode= 'on' ; void 0
