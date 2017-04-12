@@ -1,0 +1,11 @@
+AIDE POUR LANCER SNAKE:
+1ère fois:
+attender que ça affiche "cliquer sur n'importe quel touche pour continuer" (en englais)
+après ça,il pose une question "xp onli" cliquer sur la touche n puis entré
+
+CONTRE DU MENU AVEC LA SOURIS
+CONTROL DU SERPENT AVEC LES FLECHES DIRECTIONEL
+
+Be safe around Portal,a message,from Wyperture Science
+
+PS: bat,si tu peut compresser en executable s'il te plait 

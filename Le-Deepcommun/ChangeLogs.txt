@@ -1,0 +1,17 @@
+13/05/2015:
+*Ajout des logs de connexion du type: "%time% %username%" Ajout d'un cryptage des log de connections.
+
+*Ajout d'un mot de passe qui bypass les sécurités au cas ou un élève n'est pas ajouté dans le groupe "eleves". Le mot de passe est disponible sur demande à cette e-mail deepcommun@gmail.com ou IRL à swano. Je précise que si vous avez le mot de passe mais que l'admin ne vous a pas ajouté à la whitelist du DeepCommun vous ne pourrez pas vous connecter.
+Ajout d'un lien vers le site.
+
+Ajout d'une consigne au cas ou la connexion au lecteur réseaux échouait.
+
+05/05/2015:
+Nouveau Chat
+
+Ajouts de jeux qui sortent toutes les semaines ( à peut près )...
+
+6/05/2015:
+
+Fix d'un bug qui permetais aux prof d'avoir accès au DeepCommun.
+
